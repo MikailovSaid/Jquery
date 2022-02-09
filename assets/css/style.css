@@ -1,0 +1,10 @@
+button{
+    color: black!important;
+}
+button img{
+    height: 12px;
+    color: white;
+}
+.de-active{
+    display: none;
+}
